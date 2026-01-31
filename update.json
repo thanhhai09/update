@@ -1,0 +1,7 @@
+{
+  "versionCode": 100,
+  "versionName": "1.0.0",
+  "force": true,
+  "apkUrl": "https://github.com/thanhhai09/update/releases/download/v1.0.0/Telegram.apk",
+  "changelog": "- Bắt buộc cập nhật\n- Fix lỗi\n- Không cập nhật sẽ không dùng được"
+}
